@@ -1,0 +1,25 @@
+<?php
+
+return [
+  'action' => 'Action',
+  'back' => 'Back',
+  'confirm_delete' => 'Are you sure you want to delete?',
+  'copyright' => 'Copyright',
+  'create' => 'Create',
+  'created' => 'Created',
+  'dashboard' => 'Dashboard',
+  'delete' => 'Delete',
+  'edit' => 'Edit',
+  'home' => 'Home',
+  'name' => 'Name',
+  'save' => 'Save',
+  'submit' => 'Submit',
+  'total_roles' => 'Total Roles',
+  'total_permissions' => 'Total Permissons',
+  'total_users' => 'Total Users',
+  'user_settings' => 'User Settings',
+  'version' => 'Version',
+  'view' => 'View',
+  'welcome_message' => 'Welcome to the site!',
+  'welcome' => 'Welcome',
+];
